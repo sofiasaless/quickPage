@@ -1,0 +1,10 @@
+th {
+  background-color: var(--bs-table-th-bg);
+  color: var(--bs-table-th-color);
+}
+
+/* Estilo para as células (td) */
+td {
+  background-color: var(--bs-table-td-bg);
+  color: var(--bs-table-td-color);
+}
