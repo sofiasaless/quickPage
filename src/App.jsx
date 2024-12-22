@@ -1,10 +1,12 @@
+import 'bootstrap/dist/css/bootstrap.min.css';
 import './App.css'
+import Dashboard from './components/Dashboard/Dashboard'
 
 function App() {
 
   return (
     <>
-      <h2>ola</h2>       
+      <Dashboard />       
     </>
   )
 }
