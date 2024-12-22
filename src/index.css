@@ -17,4 +17,23 @@
   --secondColor: #1b1c22;
   --thirdColor: #ececec;
   --secondColorLight: #333438;
+
+
+  .table-custom {
+    --bs-table-bg: #F3F3F3; /* Cor de fundo */
+    --bs-table-accent-bg: #F3F3F3; /* Fundo para as linhas destacadas */
+    --bs-table-hover-bg: #e0e0e0; /* Cor de fundo ao passar o mouse */
+    --bs-table-border-color: #dee2e6; /* Cor das bordas */
+    --bs-table-striped-bg: #f1f3f5; /* Fundo para linhas alternadas */
+    --bs-table-striped-color: #363F4E; /* Cor do texto nas linhas alternadas */
+    --bs-table-active-bg: #cce5ff; /* Fundo para linha ativa */
+    --bs-table-active-color: #363F4E; /* Cor do texto para linha ativa */
+    --bs-table-hover-color: #363F4E; /* Cor do texto ao passar o mouse */
+    
+    --bs-table-th-bg: #343a40; /* Fundo dos cabeçalhos */
+    --bs-table-th-color: #363F4E; /* Cor do texto dos cabeçalhos */
+    --bs-table-td-bg: #ffffff; /* Fundo das células */
+    --bs-table-td-color: #363F4E; 
+  }
+
 }

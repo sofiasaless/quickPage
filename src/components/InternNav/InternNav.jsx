@@ -3,10 +3,10 @@ import './style.css'
 export default function InternNav() {
   return (
     <>
-      <nav class="navbar navbar-expand-lg navbar-light p-3" id="nav">
+      <nav class="navbar navbar-expand-lg navbar-light p-3 mb-3" id="nav">
         <div class="container-fluid">
           <form class="d-flex">
-            <input class="form-control me-2" type="search" placeholder="Procurar" aria-label="Procurar" />
+            <input class="form-control" type="search" placeholder="Procurar" aria-label="Procurar" />
             {/* <button class="btn btn-outline-success" type="submit">Procurar</button> */}
           </form>
           <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
