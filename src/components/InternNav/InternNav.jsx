@@ -5,7 +5,7 @@ export default function InternNav() {
     <>
       <nav class="navbar navbar-expand-lg navbar-light p-3 mb-3" id="nav">
         <div class="container-fluid">
-          <form class="d-flex">
+          <form class="d-flex area-procurar">
             <input class="form-control" type="search" placeholder="Procurar" aria-label="Procurar" />
             {/* <button class="btn btn-outline-success" type="submit">Procurar</button> */}
           </form>

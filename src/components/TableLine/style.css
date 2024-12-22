@@ -1,3 +1,9 @@
+@media screen and (max-width: 415px) {
+  td {
+    font-size: 13px;
+  }
+}
+
 th {
   background-color: var(--bs-table-th-bg);
   color: var(--bs-table-th-color);

@@ -1,3 +1,9 @@
+@media screen and (max-width: 415px) {
+  #tabela-responsiva thead tr th {
+    font-size: 13px;
+  }
+}
+
 .table-custom th {
   background-color: var(--bs-table-th-bg);
   color: var(--bs-table-th-color);
