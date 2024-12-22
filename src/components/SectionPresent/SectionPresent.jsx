@@ -4,7 +4,7 @@ import userIco from '../../assets/user.png'
 export default function SectionPresent() {
   return (
     <>
-      <nav id='nav' className="navbar navbar-light">
+      <nav id='nav' className="navbar" style={{backgroundColor: '#F3F3F3'}}>
         <div className="m-2">
           <a id='txt-produto' className="navbar-brand">Produtos</a>
         </div>
