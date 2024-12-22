@@ -23,6 +23,10 @@
   font-size: 23px;
 }
 
+#section-content {
+  width: 100%;
+}
+
 #break-line {
   height: 3px;
   width: 100%;

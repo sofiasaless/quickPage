@@ -3,6 +3,8 @@
 :root {
   font-family: "Poppins", serif;
 
+  background-color: #F3F3F3;
+
   --firstColor: #363F4E;
   --firstColorDark: #c46d26;
   --secondColor: #1b1c22;
