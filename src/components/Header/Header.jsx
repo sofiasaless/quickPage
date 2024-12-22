@@ -1,4 +1,5 @@
 import './style.css';
+import icone from '../../assets/icone.jpg';
 
 export default function Header() {
   return (
@@ -18,7 +19,7 @@ export default function Header() {
           </button>
 
           <li id="logo-item" className="nav-item d-flex flex-row align-items-center justify-content-start">
-            <img className="nav-link text-center rounded-4" src='https://fastly.picsum.photos/id/993/500/500.jpg?hmac=T4vqsTdp9yZeOvMq2nYr8gov1f9lek5m7W5wvE9IpEU' alt="" width={60} />
+            <img className="nav-link text-center rounded-4" src={icone} alt="" width={60} />
             <a className="nav-link text-center" href="">Cézar Bikes</a>
           </li>
 
