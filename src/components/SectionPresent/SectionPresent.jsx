@@ -9,7 +9,7 @@ export default function SectionPresent() {
           <a id='txt-produto' className="navbar-brand">Produtos</a>
         </div>
 
-        <div id='user-div' className="m-2 me-5 d-flex gap-2 align-items-center">
+        <div id='user-div' className="m-2 d-flex gap-2 align-items-center">
           <div>
             <img src={userIco} width={55}/>
           </div>
